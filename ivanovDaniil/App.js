@@ -3,7 +3,7 @@ import { Text, View, StyleSheet } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import Screen1 from "./components/1LAB/Screen1";
-import Screen2 from "./components/2LAB/Screen2";
+import Screen2 from "./components/2lab/Screen2";
 import { useState } from "react";
 
 
